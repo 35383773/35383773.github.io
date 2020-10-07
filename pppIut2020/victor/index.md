@@ -16,7 +16,7 @@ La Stéganographie est l'art de la dissimulation. Le but n'est pas de rendre un 
 
 - Son à traiter :
 <audio controls>
-  <source src="https://github.com/35383773/35383773.github.io/blob/master/pppIut2020/victor/steganographie/isThatAVoice.wav" type="audio/wav">
+  <source src="https://github.com/35383773/35383773.github.io/blob/master/pppIut2020/victor/steganographie/isThatAVoice.wav?raw=true" type="audio/wav">
 Your browser does not support the audio element.
 </audio> 
 
