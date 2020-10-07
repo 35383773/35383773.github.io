@@ -8,10 +8,13 @@ La Stéganographie est l'art de la dissimulation. Le but n'est pas de rendre un 
 - Steghide
 
 
-Image à traiter :
+## Contenu :
+
+
+- Image à traiter :
 <img src = "https://github.com/35383773/35383773.github.io/blob/master/pppIut2020/victor/steganographie/womanyellingcat.jpg" title = "womanyellingcat.jpg" alt = "Erreur d'affichage">
 
-Son à traiter :
+- Son à traiter :
 <audio controls>
   <source src="https://github.com/35383773/35383773.github.io/blob/master/pppIut2020/victor/steganographie/isThatAVoice.wav" type="audio/wav">
 Your browser does not support the audio element.
