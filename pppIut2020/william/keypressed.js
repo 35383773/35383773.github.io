@@ -6,6 +6,7 @@ document.onkeydown = function (e) {
     if (secret[i] == e.keyCode) {
       i++;
       if (i==secret.length){
+        i=0;
         window.alert('La fin du parcours se trouve ici:\n jjj.zbaFvgr.pbz/synt.ugzy');
       }
     } else {
