@@ -12,5 +12,7 @@ document.onkeydown = function (e) {
     } else {
       i=0;
     }
+  } else {
+    i=0;
   }
 };
