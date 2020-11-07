@@ -26,5 +26,5 @@ Your browser does not support the audio element.
 
 ## Annexes
 
-Correction : [Correction.pdf](https://github.com/35383773/35383773.github.io/tree/master/pppIut2020/victor/correction.pdf)<br/>
+Correction : [Correction.pdf](https://github.com/35383773/35383773.github.io/tree/master/pppIut2020/victor/Correction.pdf)<br/>
 Téléchargement : [Lien vers les fichiers du challenge](https://github.com/35383773/35383773.github.io/tree/master/pppIut2020/victor)
